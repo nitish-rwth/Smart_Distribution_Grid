@@ -4,4 +4,4 @@ Smart Home                  # Python Wrapper Class model\
 ├── House                   # House config class with component sub-classes\
 ├── methods                 # Additional functions for class house\
 ├── results                 # methods for result generation and storage\
-└── readme.md               # Run smart home in co-simulation\
+└── readme.md               # Run smart home in co-simulation
