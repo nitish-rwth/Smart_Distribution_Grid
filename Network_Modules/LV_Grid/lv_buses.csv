@@ -1,0 +1,23 @@
+bus_name;voltage;type;zone;service
+Bus MV-LV_14.0;20;n;LV_Net_14;True
+Bus LV_14.0;0,4;n;LV_Net_14;True
+Bus LV14.1.1;0,4;m;LV_Net_14;True
+Bus LV14.1.2;0,4;m;LV_Net_14;True
+Bus LV14.1.3;0,4;m;LV_Net_14;True
+Bus LV14.1.4;0,4;m;LV_Net_14;True
+Bus LV14.2.1;0,4;m;LV_Net_14;True
+Bus LV14.2.2;0,4;m;LV_Net_14;True
+Bus LV14.2.3;0,4;m;LV_Net_14;True
+Bus LV14.2.4;0,4;m;LV_Net_14;True
+Bus LV14.3.1;0,4;m;LV_Net_14;True
+Bus LV14.3.2;0,4;m;LV_Net_14;True
+Bus LV14.3.3;0,4;m;LV_Net_14;True
+Bus LV14.3.4;0,4;m;LV_Net_14;True
+Bus LV14.4.1;0,4;m;LV_Net_14;True
+Bus LV14.4.2;0,4;m;LV_Net_14;True
+Bus LV14.4.3;0,4;m;LV_Net_14;True
+Bus LV14.4.4;0,4;m;LV_Net_14;True
+Bus LV14.5.1;0,4;m;LV_Net_14;True
+Bus LV14.5.2;0,4;m;LV_Net_14;True
+Bus LV14.5.3;0,4;m;LV_Net_14;True
+Bus LV14.5.4;0,4;m;LV_Net_14;True

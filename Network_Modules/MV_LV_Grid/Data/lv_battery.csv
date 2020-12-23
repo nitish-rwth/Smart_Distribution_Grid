@@ -1,0 +1,7 @@
+name;bus;pnom;max_cap;snom;type
+Battery 1;Bus LV1.3;0.001;0.005;0.02;Battery
+Battery 2;Bus LV1.4;0.001;0.005;0.02;Battery
+Battery 3;Bus LV2.1;0.001;0.005;0.02;Battery
+Battery 4;Bus LV2.4;0.001;0.005;0.02;Battery
+Battery 5;Bus LV3.1;0.001;0.005;0.02;Battery
+Battery 6;Bus LV3.2;0.001;0.005;0.02;Battery

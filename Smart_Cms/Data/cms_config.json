@@ -1,0 +1,15 @@
+{
+  "cmstypes": {
+    "cms_A": {
+      "attrs": {"in_service": 1, "name": "CMS-1"},
+      "num": 1,
+      "components":
+      {
+        "line": {"num": 14, "attrs": {"name": "MV_Line", "loading_percent": 0}
+        },
+        "load": {"num": 560, "attrs": {"name": "Residential Load" , "ems_toggle": 0}
+        }
+      }
+    }
+  }
+}

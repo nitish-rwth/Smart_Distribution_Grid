@@ -1,0 +1,7 @@
+switch_name;bus;element;closed;type
+S2_Bus6;6;Line 6-7;True;LBS
+S2_Bus7;7;Line 6-7;False;LBS
+S3_Bus4;4;Line 4-11;False;LBS
+S3_Bus11;11;Line 4-11;True;LBS
+S1_Bus8;8;Line 8-14;False;LBS
+S1_Bus14;14;Line 8-14;True;LBS

@@ -1,0 +1,19 @@
+load_name;bus;sn;pf;load_mode
+Load R1;1;15,3;0,98;ind
+Load R3;3;0,285;0,97;ind
+Load R4;4;0,445;0,97;ind
+Load R5;5;0,75;0,97;ind
+Load R6;6;0,565;0,97;ind
+Load R8;8;0,605;0,97;ind
+Load R10;10;0,49;0,97;ind
+Load R11;11;0,34;0,97;ind
+Load R12;12;15,3;0,98;ind
+Load R14;14;0,215;0,97;ind
+Load CI1;1;5,1;0,95;ind
+Load CI3;3;0,265;0,85;ind
+Load CI7;7;0,09;0,85;ind
+Load CI9;9;0,675;0,85;ind
+Load CI10;10;0,08;0,85;ind
+Load CI12;12;5,28;0,95;ind
+Load CI13;13;0,04;0,85;ind
+Load CI14;14;0,39;0,85;ind

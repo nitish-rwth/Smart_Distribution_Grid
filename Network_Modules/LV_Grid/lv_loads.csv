@@ -1,0 +1,22 @@
+load_name;bus;p;q
+Residential Load_14.1;Bus LV14.1.1;0.01;0.005
+Residential Load_14.2;Bus LV14.1.2;0.01;0.005
+Residential Load_14.3;Bus LV14.1.3;0.01;0.005
+Residential Load_14.4;Bus LV14.1.4;0.01;0.005
+Residential Load_14.5;Bus LV14.2.1;0.01;0.005
+Residential Load_14.6;Bus LV14.2.2;0.01;0.005
+Residential Load_14.7;Bus LV14.2.3;0.01;0.005
+Residential Load_14.8;Bus LV14.2.4;0.01;0.005
+Residential Load_14.9;Bus LV14.3.1;0.01;0.005
+Residential Load_14.10;Bus LV14.3.2;0.01;0.005
+Residential Load_14.11;Bus LV14.3.3;0.01;0.005
+Residential Load_14.12;Bus LV14.3.4;0.01;0.005
+Residential Load_14.13;Bus LV14.4.1;0.01;0.005
+Residential Load_14.14;Bus LV14.4.2;0.01;0.005
+Residential Load_14.15;Bus LV14.4.3;0.01;0.005
+Residential Load_14.16;Bus LV14.4.4;0.01;0.005
+Residential Load_14.17;Bus LV14.5.1;0.01;0.005
+Residential Load_14.18;Bus LV14.5.2;0.01;0.005
+Residential Load_14.19;Bus LV14.5.3;0.01;0.005
+Residential Load_14.20;Bus LV14.5.4;0.01;0.005
+Commercial Load_14.1;Bus MV-LV_14.0;0.1;0.062
