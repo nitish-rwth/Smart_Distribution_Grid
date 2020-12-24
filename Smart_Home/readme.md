@@ -1,10 +1,9 @@
-# simulator
+# Smart Home Simulator
 
-simulator provides a way to simulate multiple types of smart homes using a config file and self-implemented parts of the house, so-called devices.
-To use this simulator, a HomeModel class object calls the create() and passes a dictionary with house config as an argument. The same object is also implementing the step function for the houses. Finally,
-mosaik is used to instantiate the smart_homes and connect them further.
+This simulator provides a way to simulate multiple types of smart homes using a config file and self-implemented parts of the house, so-called devices/components.
+To use this simulator, a HomeModel class object calls the create() and passes a dictionary with house config as an argument. The same object is also implementing the step function for the houses. Finally, mosaik is used to instantiate the smart_homes and connect them further.
 
-## model - Implementing the Smart home
+## Model - Implementing the Smart home
 The Smart_home class needs a ```getparam``` function as well as a ```step``` function. The step function receives a step_size 
 and the inputs from mosaik (for an overview of the inputs see the mosaik documentation). It is where the main logic of how the smart home works is implemented.
 step() function gets the step_size and the current simulation time and calls energy_manager() of class EMS. This is the power control step of Smart Home.
