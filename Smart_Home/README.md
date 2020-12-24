@@ -5,4 +5,6 @@ Smart Home                  # Python Wrapper Class model\
 ├── methods                 # Additional functions for class house\
 ├── results                 # methods for result generation and storage\
 └── readme.md               # Run smart home in co-simulation\
-![alternative text](https://lucid.app/lucidchart/invitations/accept/a53531bf-bcf6-4e47-b2fb-a7bf58eef4f1)
+
+Model:
+![alt text](https://lucid.app/publicSegments/view/ddc7e019-268f-40ea-96af-e3b0b596519f/image.png)
