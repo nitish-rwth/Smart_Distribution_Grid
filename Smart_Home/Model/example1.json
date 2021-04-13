@@ -1,0 +1,40 @@
+{
+  "housetypes": {
+    "house_A": {
+      "attrs": {"P_house": 0, "Q_house": 0},
+      "num": 1,
+      "components":
+      {
+        "Battery": {"num": 2, "params": {"P_in": 1, "max_P": 6.6, "min_P": -6.6, "max_energy": 10,
+          "charge_efficiency": 0.9, "discharge_efficiency": 0.9, "soc_min": 10, "soc_max": 100, "soc": 50,
+          "flag": 0, "in_service": 1}
+        },
+        "EV": {"num": 1, "params": {"P_in": 1, "max_P": 22, "max_energy": 50, "charge_efficiency": 0.9,
+          "soc_min": 10, "soc_max": 90, "soc": 10, "flag": 0, "in_service": 1}
+        },
+        "PVCollector": {"num": 1, "params": {"P":10}
+        },
+        "Load": {"num": 1, "params": {"P": 10, "Q": 5}
+        }
+      }
+    },
+    "house_B": {
+      "attrs": {"P_house": 0, "Q_house": 0},
+      "num": 1,
+      "components":
+      {
+        "Battery": {"num": 2, "params": {"P_in": 1, "max_P": 6.6, "min_P": -6.6, "max_energy": 10,
+          "charge_efficiency": 0.9, "discharge_efficiency": 0.9, "soc_min": 10, "soc_max": 100, "soc": 50,
+          "flag": 0, "in_service": 1}
+        },
+        "EV": {"num": 2, "params": {"P_in": 1, "max_P": 22, "max_energy": 50, "charge_efficiency": 0.9,
+          "soc_min": 10, "soc_max": 80, "soc": 20, "flag": 0, "in_service": 1}
+        },
+        "PVCollector": {"num": 1, "params": {"P":10}
+        },
+        "Load": {"num": 1, "params": {"P": 10, "Q": 5}
+        }
+      }
+    }
+  }
+}
